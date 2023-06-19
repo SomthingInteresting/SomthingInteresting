@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a full stack developer and Makers Academy graduate.
+I'm a full stack developer with over 8 years experience in the residential property investment sector and Makers Academy graduate.
 
-- 🔭 I’m currently working on "GitOut! - A web based puzzle game"
+- 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
 - 🌱 I’m currently learning Typescript and Python
 - 👯 I’m looking to collaborate on fun side projects to express our creativity
 - 📫 How to reach me: Email 
