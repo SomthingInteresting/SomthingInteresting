@@ -27,3 +27,29 @@ I'm a full stack developer and Makers Academy graduate.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomthingInteresting&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomthingInteresting&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+## Projects
+
+| Project                 | Description                  | Technologies    | 
+|-------------------------|------------------------------|-----------------|
+| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |MERN Stack application. Forum for study support | MERN, Openai api Javascript |
+| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |MERN Stack application. Facebook clone with a twist | MERN |
+
+
+
+## Soft Skills
+
+
+## Education
+
+#### Makers Academy (February 2023 to current)
+- Agile
+- Pair programming
+- OOP, TDD
+
+### Hobbies and Interests
+- **Geocaching:** 
+- **Swimming:**
+- **Motorcycling:** 
+- **Gaming:** 
+- **Cooking:** 
