@@ -35,9 +35,9 @@ I'm a full stack developer with over 8 years experience in the residential prope
 | [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |MERN Stack application. Forum for study support | MERN, OpenAI api |
 | [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |MERN Stack application. Facebook clone with a twist | MERN |
 
+## Work Experience
 
-
-## Soft Skills
+## Skills
 
 
 ## Education
