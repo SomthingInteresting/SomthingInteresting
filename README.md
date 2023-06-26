@@ -3,12 +3,11 @@
 I'm a full stack developer with over 8 years experience in the residential property investment sector and Makers Academy graduate.
 
 - 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
-- 🌱 I’m currently learning Typescript and Python
+- 🌱 I’m currently learning Python and responsive web design
 - 👯 I’m looking to collaborate on fun side projects to express our creativity
 - 📫 How to reach me: Email 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name is pronounced Q, all the other letters are silent (ok that may not be entirely true)
--->
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -32,24 +31,11 @@ I'm a full stack developer with over 8 years experience in the residential prope
 
 | Project                 | Description                  | Technologies    | 
 |-------------------------|------------------------------|-----------------|
-| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |MERN Stack application. Forum for study support | MERN, OpenAI api |
-| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |MERN Stack application. Facebook clone with a twist | MERN |
+| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |Forum for study support | MERN, OpenAI API |
+| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |Facebook clone with a twist | MERN |
 
-## Work Experience
-
-## Skills
-
-
-## Education
 
 #### Makers Academy (February 2023 to current)
 - Agile
 - Pair programming
 - OOP, TDD
-
-### Hobbies and Interests
-- **Geocaching:** 
-- **Swimming:**
-- **Motorcycling:** 
-- **Gaming:** 
-- **Cooking:** 
