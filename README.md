@@ -31,8 +31,8 @@ I'm a full stack developer with over 8 years experience in the residential prope
 
 | Project                 | Description                  | Technologies    | 
 |-------------------------|------------------------------|-----------------|
-| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |Forum for study support | MERN, OpenAI API |
-| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |Facebook clone with a twist | MERN |
+| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |Forum for study support | MERN, Cypress, Jest, OpenAI API |
+| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |Facebook clone with a twist | MERN, Cypress, Jest |
 
 
 #### Makers Academy (February 2023 to current)
