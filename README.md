@@ -3,7 +3,7 @@
 I'm a full stack developer with over 8 years experience in the residential property investment sector and Makers Academy graduate.
 
 - 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
-- 🌱 I’m currently learning Python and responsive web design
+- 🌱 I’m currently learning Python, Rust and responsive web design
 - 👯 I’m looking to collaborate on fun side projects to express our creativity
 - 📫 How to reach me: Email 
 - 😄 Pronouns: He/Him
