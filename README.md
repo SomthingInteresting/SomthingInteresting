@@ -28,8 +28,12 @@ Recently completed a software engineering bootcamp with [Makers Academy](https:/
 
 ## Select Projects
 
-| Project                 | Description                  | Technologies    | 
-|-------------------------|------------------------------|-----------------|
-| [Study-Buddy](https://github.com/SomthingInteresting/study-buddy)              |Forum for study support | MERN, Cypress, Jest, OpenAI API |
-| [Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air)               |Facebook clone with a twist | MERN, Cypress, Jest |
+| Project                 | Description                                                               |Group/Solo           | Technologies        |
+|:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+|[Moangoose](https://github.com/SomthingInteresting/acebook-mern-team-air) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
+|[Bank Tech Test](https://github.com/somethinginteresting/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
+|[Bowling Challenge](https://github.com/somthinginteresting/bowling-challenge) | A bowling score calculator that runs in the terminal with node | Solo | JavaScript, Node, Jest | 
+|[MakersBNB](https://github.com/somthinginteresting/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
+|[Chitter](https://github.com/somthinginteresting/chitter-challenge) | A Twitter clone which enables users to sign up, sign in, view posts, and create new posts | Solo | Ruby, RSpec, PostgreSQL, Sinatra |
+|[Study Buddy](https://github.com/somthinginteresting/study-buddy) | A study web app that has AI integration | Group | MERN, Cypress, Jest, OpenAI API |
 
