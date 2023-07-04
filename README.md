@@ -20,13 +20,6 @@ I'm a full stack developer with over 8 years experience in the residential prope
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p>
 
-## ⚙️ GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomthingInteresting&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomthingInteresting&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 ## Projects
 
 | Project                 | Description                  | Technologies    | 
