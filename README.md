@@ -1,4 +1,4 @@
-### Hi there, I'm Q 👋
+## Hi there, I'm Q 👋
 
 I'm a full stack developer with over 8 years experience in the residential property investment sector.
 
