@@ -14,7 +14,7 @@ Recently completed a software engineering bootcamp with [Makers Academy](https:/
 
 ## More information about me & my work
 <a href="https://github.com/somthinginteresting/CV">
-    <img src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png" alt="cv" width="400"/>
+    <img src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png" alt="cv" width="100"/>
 </a>
 
 ## 🧰 Languages and Tools:
