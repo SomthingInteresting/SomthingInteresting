@@ -9,11 +9,11 @@ I'm a full stack developer with over 8 years experience in the residential prope
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name is pronounced Q, all the other letters are silent (ok that may not be entirely true)
 
-## **OPEN TO WORK:** Looking for the next project
+## **OPEN TO WORK:**
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/).
 
 ## More information about me & my work
-<img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png">[<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">
+<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">
 ](https://github.com/somthinginteresting/CV "CV on Github")
 
 ## 🧰 Languages and Tools:
