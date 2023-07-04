@@ -13,7 +13,7 @@ I'm a full stack developer with over 8 years experience in the residential prope
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/).
 
 ## More information about me & my work
-[<img width="100" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png">](https://github.com/somthinginteresting/CV "Github CV")
+[<img width="100" alt="cv" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon.png">](https://github.com/somthinginteresting/CV "Github CV")
 
 
 ## 🧰 Languages and Tools:
