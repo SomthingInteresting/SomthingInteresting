@@ -4,7 +4,7 @@ I'm a full stack developer with over 8 years experience in the residential prope
 
 - 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
 - 🌱 I’m currently learning Python, Rust and responsive web design
-- 📫 How to reach me: [Email](qrahman115@gmail.com) 
+- 📫 How to reach me: [Email](quddusrahman@pm.me) 
 - ⚡ Fun fact: My name is pronounced Q, all the other letters are silent (ok that may not be entirely true)
 
 ## **OPEN TO WORK**
