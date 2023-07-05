@@ -7,7 +7,7 @@ I'm a full stack developer with over 8 years experience in the residential prope
 - 📫 How to reach me: [Email](mailto:quddusrahman@pm.me) 
 - ⚡ Fun fact: My name is pronounced Q, all the other letters are silent (ok that may not be entirely true)
 
-## **OPEN TO WORK**
+## **Open To Work**
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/).
 
 ## More information about me & my work
