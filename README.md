@@ -11,7 +11,9 @@ I'm a full stack developer with over 8 years experience in the residential prope
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/).
 
 ## More information about me & my work
-[<img width="100" alt="cv" src="https://github.com/SomthingInteresting/SomthingInteresting/assets/122159337/87d115c7-4d5d-4780-9840-1813a84f6558">](https://github.com/somthinginteresting/CV "Github CV")  
+<a href="https://github.com/somthinginteresting/CV"><img width="100" alt="cv" src="https://github.com/SomthingInteresting/SomthingInteresting/assets/122159337/87d115c7-4d5d-4780-9840-1813a84f6558"></a> <a href="https://github.com/somthinginteresting/CV"><img width="100" alt="PDFcv" src="https://github.com/SomthingInteresting/SomthingInteresting/assets/122159337/dbcd6414-237b-432c-bd90-da7bb1b45c90"></a> <a href="https://troopl.com/qrahman"><img width="100" alt="portfolio" src="https://github.com/SomthingInteresting/SomthingInteresting/assets/122159337/fbc2f121-b6d4-4148-aa2f-630527cdc1ea"></a> <a href="https://www.linkedin.com/in/quddusrahman/"><img width="100" alt="linkedIn" src="https://github.com/SomthingInteresting/SomthingInteresting/assets/122159337/4df87506-3b92-46de-95a8-34180305ca40"></a>
+
+
 
 
 ## 🧰 Technologies I Use:
