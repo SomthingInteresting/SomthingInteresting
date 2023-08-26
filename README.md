@@ -3,9 +3,8 @@
 I'm a full stack developer with over 8 years experience in the residential property investment sector.
 
 - 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
-- 🌱 I’m currently learning Python, Rust, Typescript and responsive web design
+- 🌱 I’m currently learning Python & Typescript
 - 📫 How to reach me: [Email](mailto:quddusrahman@pm.me) 
-- ⚡ Fun fact: My name is pronounced Q, all the other letters are silent (ok that may not be entirely true)
 
 ## **Open To Work**
 Recently completed a software engineering bootcamp with [Makers Academy](https://makers.tech/).
