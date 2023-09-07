@@ -2,7 +2,6 @@
 
 I'm a full stack developer with over 8 years experience in the residential property investment sector.
 
-- 🔭 I’m currently working on "GitOut! - A web based puzzle game" and a property investment tool
 - 🌱 I’m currently working on projects that use Python & Typescript
 - 📫 How to reach me: [Email](mailto:quddusrahman@pm.me) 
 
