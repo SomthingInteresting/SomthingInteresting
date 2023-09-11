@@ -4,7 +4,7 @@ I'm a full stack developer with over 8 years experience in the property investme
 
 - 🌱 I’m currently working on projects that use Python & Typescript
 - 📫 How to reach me: [Email](mailto:quddusrahman@pm.me)
-- 💼 My portfolio: https://qrahman.com/
+- 💼 My website & portfolio: https://qrahman.com/
 
 ## **Actively Seeking Opportunities**
 Recently graduated from Makers Academy. Ready to apply my agile, technical, and creative skills in a professional setting.
