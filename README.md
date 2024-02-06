@@ -10,8 +10,7 @@ I'm a full stack developer with over 8 years experience in the property investme
 Recently graduated from Makers Academy. Ready to apply my agile, technical, and creative skills in a professional setting.
 
 ## More information about me & my work
-[<img width="100" alt="cv" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106053-87d115c7-4d5d-4780-9840-1813a84f6558.png">](https://github.com/somthinginteresting/CV "Github CV") [<img width="100" alt="PDFcv" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106288-dbcd6414-237b-432c-bd90-da7bb1b45c90.png">](https://github.com/SomthingInteresting/SomthingInteresting/files/13476688/CV.-.Quddus.Rahman.-.27.Nov.pdf
- "PDF CV") [<img width="100" alt="portfolio" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106831-fbc2f121-b6d4-4148-aa2f-630527cdc1ea.png">](https://qrahman.com/ "portfolio") [<img width="100" alt="linkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251107966-4df87506-3b92-46de-95a8-34180305ca40.png">](https://www.linkedin.com/in/quddusrahman/ "linkedIn")
+[<img width="100" alt="cv" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106053-87d115c7-4d5d-4780-9840-1813a84f6558.png">](https://github.com/somthinginteresting/CV "Github CV")[<img width="100" alt="portfolio" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106831-fbc2f121-b6d4-4148-aa2f-630527cdc1ea.png">](https://qrahman.com/ "portfolio") [<img width="100" alt="linkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251107966-4df87506-3b92-46de-95a8-34180305ca40.png">](https://www.linkedin.com/in/quddusrahman/ "linkedIn")
 
 ## 🧰 Technologies I Use:
 <p align="left">
