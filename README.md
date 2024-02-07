@@ -16,22 +16,24 @@ I'm a full stack developer with over 8 years experience in the property investme
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="auto" height="30"/>  
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="auto" height="30"/>  
-    <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="scss" width="auto" height="30"/> <!-- Added SCSS -->
+    <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="scss" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js" width="auto" height="30"/> <!-- Added Vue.js -->
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native" width="auto" height="30"/> <!-- Added React Native -->
+    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js" width="auto" height="30"/> 
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="auto" height="30"/> <!-- Added MySQL -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws elastic beanstalk" width="auto" height="30"/> <!-- Added AWS Elastic Beanstalk -->
+    <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws elastic beanstalk" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" width="auto" height="30"/>
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" width="auto" height="30"/>
+    <img src="https://img.shields.io/badge/Mixpanel-FF6C37?style=for-the-badge&logo=mixpanel&logoColor=white" alt="mixpanel" width="auto" height="30"/>
 </p>
 
 
