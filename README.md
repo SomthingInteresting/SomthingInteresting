@@ -34,6 +34,7 @@ I'm a full stack developer with over 8 years experience in the property investme
     <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/Mixpanel-FF6C37?style=for-the-badge&logo=mixpanel&logoColor=white" alt="mixpanel" width="auto" height="30"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" width="auto" height="30"/>
 </p>
 
 
