@@ -1,31 +1,25 @@
-## I'm Q
+## Hi I'm Q 🦕
 
 I'm a full stack developer with over 8 years experience in the property investment sector.
  
-- 🌱 I’m currently working for Recdek as a Junior Full-Stack Mobile App Developer
-- 📫 How to reach me: [Email](mailto:quddusrahman@pm.me)
-- 💼 My website & portfolio: https://qrahman.com/ 
+- Junior Full-Stack Mobile App Developer at [Recdek](https://www.recdek.com/)
+- 📫 You can contact me by [email](mailto:quddusrahman@pm.me)
 
 ## More information about me & my work
 [<img width="100" alt="cv" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106053-87d115c7-4d5d-4780-9840-1813a84f6558.png">](https://github.com/somthinginteresting/CV "Github CV")[<img width="100" alt="portfolio" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106831-fbc2f121-b6d4-4148-aa2f-630527cdc1ea.png">](https://qrahman.com/ "portfolio") [<img width="100" alt="linkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251107966-4df87506-3b92-46de-95a8-34180305ca40.png">](https://www.linkedin.com/in/quddusrahman/ "linkedIn")
 
-## 🧰 Technologies I Use:
+## 🧰 Technologies I mainly use:
 <p align="left">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="auto" height="30"/>  
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="auto" height="30"/>  
-    <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="scss" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js" width="auto" height="30"/> 
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="auto" height="30"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws elastic beanstalk" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="auto" height="30"/>
