@@ -1,4 +1,4 @@
-## Hi I'm Q 🦕
+## Hi, I'm Q 🦕
 
 I'm a full stack developer with over 8 years experience in the property investment sector.
  
