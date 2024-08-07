@@ -7,7 +7,7 @@ I'm a full stack developer with over 8 years experience in the property investme
 
 [<img width="100" alt="portfolio" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106831-fbc2f121-b6d4-4148-aa2f-630527cdc1ea.png">](https://qrahman.com/ "portfolio") [<img width="100" alt="linkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251107966-4df87506-3b92-46de-95a8-34180305ca40.png">](https://www.linkedin.com/in/quddusrahman/ "linkedIn")
 
-## 🧰 Technologies I mainly use:
+## Tech I mainly use:
 <p align="left">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="auto" height="30"/>  
