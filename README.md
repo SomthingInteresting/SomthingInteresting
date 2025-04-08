@@ -1,6 +1,6 @@
 # Hi, I'm Q 
 
-I'm a full stack developer with over 8 years experience in the property investment sector.
+I’m a Full Stack Developer with over 8 years of experience, primarily in the property investment sector. Currently, I’m a Junior Full-Stack Developer at Recdek, where I help build innovative solutions for film and TV recommendations. My passion lies in creating scalable, user-centric applications that solve real-world problems.
  
 - Junior Full-Stack Developer at [Recdek](https://www.recdek.com/)
 - 📫 You can contact me by [email](mailto:quddusrahman@pm.me)
