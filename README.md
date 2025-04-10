@@ -29,6 +29,9 @@ I’m a Full Stack Developer with over 8 years of experience, primarily in the p
     <img src="https://img.shields.io/badge/Mixpanel-FF6C37?style=for-the-badge&logo=mixpanel&logoColor=white" alt="mixpanel" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" width="auto" height="30"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" width="auto" height="30"/>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" width="auto" height="30"/> 
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="auto" height="30"/> 
+    <img src="https://img.shields.io/badge/wagtail-%23000000.svg?style=for-the-badge&logo=wagtail&logoColor=white" alt="wagtail" width="auto" height="30"/>
 </p>
 
 
@@ -36,6 +39,7 @@ I’m a Full Stack Developer with over 8 years of experience, primarily in the p
 
 | Project                 | Description                                                               |Group/Solo           | Technologies        |
 |:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+| ChartStart | A Wagtail-based data visualization tool that allows users to upload spreadsheets, select visualization types (e.g., charts, graphs), and generate reports. Includes API integration for real-time data fetching and automated PDF report generation. | Solo | Python, Django, Wagtail CMS, Chart.js, Pandas, OpenPyXL |
 |[Moangoose (Deployed)](https://moangoose-frontend.onrender.com/) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
 |[Bank Tech Test](https://github.com/somethinginteresting/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
 |[Bowling Challenge](https://github.com/somthinginteresting/bowling-challenge) | A bowling score calculator that runs in the terminal with node | Solo | JavaScript, Node, Jest | 
