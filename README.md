@@ -1,8 +1,8 @@
 # Hi, I'm Q 
 
-I’m a Full Stack Developer with over 8 years of experience, primarily in the property investment sector. Currently, I’m a Junior Full-Stack Developer at Recdek, where I help build innovative solutions for film and TV recommendations. My passion lies in creating scalable, user-centric applications that solve real-world problems.
+All things data engineering.
  
-- Junior Full-Stack Developer at [Recdek](https://www.recdek.com/)
+- Data Developer at [The National Archives](https://www.nationalarchives.gov.uk/)
 - 📫 You can contact me by [email](mailto:quddusrahman@pm.me)
 
 [<img width="100" alt="portfolio" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251106831-fbc2f121-b6d4-4148-aa2f-630527cdc1ea.png">](https://qrahman.com/ "portfolio") [<img width="100" alt="linkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122159337/251107966-4df87506-3b92-46de-95a8-34180305ca40.png">](https://www.linkedin.com/in/quddusrahman/ "linkedIn")
@@ -43,7 +43,5 @@ I’m a Full Stack Developer with over 8 years of experience, primarily in the p
 | [Artful Desires (Deployed/Ongoing)](https://artful-desires.vercel.app/) | A full-stack web platform for discovering and showcasing independent art. Features include user authentication, artwork listings, and form submissions. RESTful APIs built with FastAPI, integrated Supabase for auth and storage, PostgreSQL for data persistence, and deployed via Fly.io using Docker. | Solo | Python, FastAPI, PostgreSQL, Docker, Fly.io, Typescript, React, Supabase, Vite, pytest, Cypress, GitHub Actions |
 |[Moangoose (Deployed)](https://moangoose-frontend.onrender.com/) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
 |[Study Buddy (Deployed)](https://study-buddy-frontend.onrender.com/) | A study web app that has AI integration | Group | MERN, Cypress, Jest, OpenAI API |
-|[Bank Tech Test (Repo)](https://github.com/somethinginteresting/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
-|[MakersBNB (Repo)](https://github.com/somthinginteresting/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
 
 
